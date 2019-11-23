@@ -10,7 +10,7 @@ const products = [
     },
     {
         masa: "Maiz",
-        precio: 1,
+        precio: 1.00,
         especialidad: "Loca",
         tamanio: "Grande"
     }
